@@ -1,0 +1,117 @@
+p{
+  	color:black;
+    font-size:20px;
+}
+li{
+    color:black;
+    font-size:18px;
+}
+.list{
+	color:blue;
+	font-size:20px;
+}
+.page{
+	color:purple;
+	font-size:21px;
+}
+#backround{
+	background-color:gray;
+}
+#submit{
+	height:20px;
+	width:60px;
+	color:white;
+	background-color:black;
+	border-radius:15px;
+
+}
+#banner{
+	height:35px;
+	width:80%;
+	border:5px;
+	background-color:#cc33ff;
+	margin-bottom:5px;
+}
+#footer{
+	height:40px;
+	width:90%;
+	border:5px;
+	background-color:#cc33ff;
+}
+.wrap-list{
+	width:100%;
+	border-radius:10px;
+	border:2px ridge black;
+	padding:5px;
+}
+.uamm{
+	font:bold;
+	color:green;
+}
+
+
+#one {
+	height: 150px;
+	width: 150px;
+	background-color:red;
+	display:inline-block;
+	position:fixed;
+	left: 25.5%;
+}
+
+#two {
+	height: 150px;
+	width: 150px;
+	background-color:blue;
+	display:inline-block;
+	position:absolute;
+	z-index:1;
+}
+
+#three {
+	height: 150px;
+	width: 150px;
+	background-color:green;
+	display:inline-block;
+	position:relative;
+	top: 750px;
+	left:50%;
+	z-index:2;
+}
+#background-h {
+	height:2048px;
+}
+.navitem{
+	list-style-type:none;
+	display:inline;
+	margin-right:.3px;
+	padding:2px 5px;
+}
+#navmenu{
+	text-align:center;
+	background-color:silver;
+	color:blue;
+}
+a:link{
+	color:blue;
+}
+a:visited{
+	color:purple;
+}
+a:hover{
+	color:yellow;
+}
+a:active{
+color:green;
+}
+.rightside{
+	float:right;
+	width:30%;
+	margin-right:15px;
+}
+.leftside{
+	width:65%;
+}
+.clearfloat{
+	clear:both;
+}
